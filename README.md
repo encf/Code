@@ -1,4 +1,4 @@
-# Mango
+
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Version](https://img.shields.io/badge/version-1.0.0-brightgreen.svg)
@@ -6,7 +6,7 @@
 
 ## Description
 
-Mango is the implementation of the protocol presented in our paper. It includes tools to verify the correctness of the protocol and benchmark its execution speed. This repository contains two main components:
+This code is the implementation of the protocol presented in our paper. It includes tools to verify the correctness of the protocol and benchmark its execution speed. This repository contains two main components:
 
 - **correctness.py**: A Python script to validate the correctness of the protocol.
 - **benchmark.cpp**: A C++ program to measure the execution speed of the protocol. Note: This file is solely for benchmarking purposes and may contain code errors.
